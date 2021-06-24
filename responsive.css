@@ -1,0 +1,60 @@
+@media (max-width:992px){
+    .pric-box {
+        background-color: rgba(189, 249, 156, 0.51);
+        max-width: 21%;
+       
+    }
+}
+
+@media(max-width:768px) {
+    .pric-box {
+        padding: 23px;
+        
+    }
+}
+
+@media (max-width:578px){
+    .btn {
+        margin-bottom: 20px;
+    }
+    .lead {
+        font-size: 1.0rem;
+    }
+    .pric-box {
+        padding: 20px;
+        max-width: 21%;
+    }
+    .nozrul h3 {
+        color: #2bc868;
+        margin-bottom: 27px;
+        font-size: 16px;
+    }
+    .pricing-item-button a {
+        border-width: 1px;
+        padding: 10px 20px;
+        font-size: 15px;
+        
+    }
+    .konka h4 {
+      margin-bottom: 25px;
+       
+    }
+    .jahan h4 {
+        margin-top: 7px;
+        font-size: 16px;
+    }
+    p {
+        font-size: 10px;
+    }
+}
+@media (max-width:500px){
+    .pric-box {
+        padding: 13px;
+       
+    }
+}
+@media (max-width:360px){
+    .pric-box {
+        padding: 6px;
+    }
+}
